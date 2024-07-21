@@ -10,4 +10,5 @@ It offers a dynamic and interactive image gallery that can be integrated into an
 - **Search Functionality**: Easily search for images within the gallery.
 - **Custom Filters**: Filter images by different categories such as People, Cities, Nature, Animals, and Technology.
 ![image](https://github.com/user-attachments/assets/617965e5-8a69-4bd5-93e6-02a8ffe3eefb)
+![image](https://github.com/user-attachments/assets/ba242f55-4c63-47e2-8c8c-317d08f5dba8)
 
